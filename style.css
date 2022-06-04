@@ -4,3 +4,8 @@ body{
 h1{
     background-color: darkkhaki;
 }
+p{
+    background-color: antiquewhite;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: medium;
+}
